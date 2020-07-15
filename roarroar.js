@@ -20,6 +20,7 @@ function g() {
                     bet=+prompt('bet?');
                     ok=confirm('one more?');
                     console.log(DB);
+                    
                 }
             }
         }
