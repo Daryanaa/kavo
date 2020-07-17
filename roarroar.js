@@ -21,7 +21,7 @@ function play() {
 
                     db[key][number]=bet;
                 }
-                break
+                break;
             }
         }
     }
